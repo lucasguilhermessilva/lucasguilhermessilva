@@ -40,6 +40,7 @@ stack = {
 
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
+| [payments-wallet-go](https://github.com/lucasguilhermessilva/payments-wallet-go) | 💸 API de carteira digital em Go — ACID, idempotência, cache Redis, JWT, worker pool. Fundamentos fintech (PicPay/Nubank-ready). | 🔥 Flagship |
 | [perazzo-vision](https://github.com/lucasguilhermessilva/perazzo-vision) | Pipeline OCR + Google Gemini para documentos jurídicos — **80%+ menos tempo de triagem** | ✅ Produção |
 | [app-expurgos](https://github.com/lucasguilhermessilva/app-expurgos) | Motor de cálculos de expurgos inflacionários — **zero erros operacionais** | ✅ Produção |
 | Agentes WhatsApp (Fast IA) | 3+ agentes em produção em clínicas de saúde — 24/7 sem intervenção humana | ✅ Produção |
