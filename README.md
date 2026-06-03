@@ -42,8 +42,6 @@ stack = {
 |---------|-----------|--------|
 | [perazzo-vision](https://github.com/lucasguilhermessilva/perazzo-vision) | Pipeline OCR + Google Gemini para documentos jurídicos — **80%+ menos tempo de triagem** | ✅ Produção |
 | [app-expurgos](https://github.com/lucasguilhermessilva/app-expurgos) | Motor de cálculos de expurgos inflacionários — **zero erros operacionais** | ✅ Produção |
-| [whatsapp-ai-agent-template](https://github.com/lucasguilhermessilva/whatsapp-ai-agent-template) | Template production-ready para agentes de IA via WhatsApp — FastAPI + OpenAI | ✅ Open Source |
-| [legal-doc-processor-api](https://github.com/lucasguilhermessilva/legal-doc-processor-api) | API REST para extração de dados de docs jurídicos via OCR + IA | ✅ Open Source |
 | Agentes WhatsApp (Fast IA) | 3+ agentes em produção em clínicas de saúde — 24/7 sem intervenção humana | ✅ Produção |
 | Agente MASTER | Sistema de monitoramento de múltiplos agentes de IA em tempo real | 🔨 Em dev |
 
