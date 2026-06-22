@@ -27,7 +27,7 @@ Atualmente na **Fast IA** — desenvolvendo agentes que atendem clínicas médic
 
 ```python
 stack = {
-    "IA & Agentes":   ["OpenAI GPT-4", "Google Gemini", "Claude API", "n8n", "Prompt Engineering", "RAG"],
+    "IA & Agentes":   ["OpenAI GPT-5", "Google Gemini", "Claude API", "n8n", "Prompt Engineering", "RAG"],
     "Backend & APIs": ["Python", "FastAPI", "Node.js", "TypeScript", "PHP", "REST APIs", "Java/Spring"],
     "Dados":          ["PostgreSQL", "MySQL", "Supabase", "ETL Pipelines", "OCR", "Web Scraping"],
     "Cloud & Infra":  ["Railway", "AWS EC2/S3", "Docker", "Linux", "Evolution API", "WhatsApp API"],
